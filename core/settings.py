@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-m10c@k!u5b!y@=n%!9dxmc4#=q)q$)tdu$6$&w#1p_y107=2c_
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['*']
+CSRF_TRUSTED_ORIGINS = ['https://django-images-xqg8d.kinsta.app/', 'http://django-images-xqg8d.kinsta.app/']
 
 
 # Application definition
